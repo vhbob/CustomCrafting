@@ -1,0 +1,5 @@
+name: CustomCrafting
+version: 0.1
+author: vhbob
+main: com.vhbob.CustomCrafting.Main
+description: Add a unique custom crafting experience to your server!
